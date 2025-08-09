@@ -1,5 +1,5 @@
 # font-abjad-blocky-one
-Font for abjad conscript "Blocky One", nothing special, just a functional proof of concept.
+Font for abjad-like conscript "Blocky One", nothing special, just a functional proof of concept.
 
 _This font is currently only available in OTF; it may not render consonant diacritics correctly in MS Word [this is Microsoft's fault]._
 
